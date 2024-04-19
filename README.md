@@ -29,13 +29,10 @@ Base de dados: https://dados.gov.br/dados/conjuntos-dados/serie-historica-de-pr
 O Dashboard ANP 2022 é composto por 2 painéis indicadores:
 - **Ticket Médio:** Este painel permite analisar o ticket médio do combustível de forma abrangente, incluindo o total de pontos de revenda e sua distribuição por estados através de um gráfico de mapas de bolhas. Além disso, oferece comparações do preço médio do combustível por região do Brasil, por tipo de volume e apresenta os top 5 preços médios mais caros e mais baratos por estado. Também é possível visualizar o preço médio por tipo de combustível, como Etanol comum, gasolina comum, gasolina aditivada, Diesel Comum, Diesel S-10 e GNV.
 - **Análise Temporal:** Neste painel, é possível analisar a variação do preço médio do combustível ao longo de 2022, por mês, trimestre e semestre. Também permite observar a variação da quantidade de pontos de revenda ao longo dos meses. Além disso, oferece a opção de selecionar o filtro por tipo de combustível para uma análise mais específica.
-
+<hr>
 
 ### Projeto Final:
 
-![Pagina 1](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/908f86d8-7e41-4f0c-bbf4-a369ce0bad21)
-![Pagina 2](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/11fa8451-1e36-47bf-9026-934d9bdfe4e6)
-![Pagina 3](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/a0636d58-461e-4e52-b726-dcb85f3b6585)
-![Pagina 4](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/f9f0eb07-c135-4adc-9a6c-e2242d84d275)
-![Pagina 5](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/fdd5ecf5-06b6-453f-818b-e7cb22b1906c)
+![pagina 1](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/3cc088a3-b06b-41ce-9f7c-c317c09b21c4)
+![pagina 2](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/5219d38e-5348-4b8a-a83b-7f9d20aeabd1)
 
