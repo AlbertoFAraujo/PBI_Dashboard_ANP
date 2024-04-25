@@ -32,7 +32,9 @@ O Dashboard ANP 2022 é composto por 2 painéis indicadores:
 <hr>
 
 ### Projeto Final:
+![capa](https://github.com/AlbertoFAraujo/PBI_Dashboard_ANP/assets/105552990/ee98c646-fe60-4dda-8058-bf0429eeb70a)
+![p1](https://github.com/AlbertoFAraujo/PBI_Dashboard_ANP/assets/105552990/875cd6ac-179e-42c1-b746-b5f272b0a44e)
+![p2](https://github.com/AlbertoFAraujo/PBI_Dashboard_ANP/assets/105552990/2144de60-9fcd-432d-adbc-05e5e6ff6433)
 
-![pagina 1](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/3cc088a3-b06b-41ce-9f7c-c317c09b21c4)
-![pagina 2](https://github.com/AlbertoFAraujo/PBI_DashboardSAC/assets/105552990/5219d38e-5348-4b8a-a83b-7f9d20aeabd1)
+
 
